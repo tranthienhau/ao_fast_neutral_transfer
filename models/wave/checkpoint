@@ -1,0 +1,4 @@
+model_checkpoint_path: "fast-style-model.ckpt-2600"
+all_model_checkpoint_paths: "fast-style-model.ckpt-2200"
+all_model_checkpoint_paths: "fast-style-model.ckpt-2400"
+all_model_checkpoint_paths: "fast-style-model.ckpt-2600"
